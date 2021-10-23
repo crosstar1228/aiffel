@@ -1,6 +1,7 @@
 # CV, NLP, Recommendation System, GAN ...
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crosstar1228)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crosstar1228)](https://github.com/anuraghazra/github-readme-stats)  
+
 딥러닝과 관련한 다양한 19가지 모델을 구현한 내용입니다.
 
 
